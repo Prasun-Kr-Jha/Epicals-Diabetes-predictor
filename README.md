@@ -91,10 +91,9 @@ Disclaimer
 
 This application is intended for educational purposes only. It does not replace professional medical diagnosis or treatment.
 
-Author
-
+Author:-
 Prasun Kumar Jha
-B.Tech Computer Science
+
 
 Future Scope
 
@@ -104,6 +103,3 @@ Future Scope
 • Integrate cloud database
 
 
-Just say the word 👍
-
-ChatGPT can make mistakes. Ch
